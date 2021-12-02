@@ -1,4 +1,4 @@
-# Grand-Challenge-HP
+# Grand-Challenge-Headphones
 The main objective of this grand challenge was to energize young minds and develop indigenous innovative commercially viable 
 product designs which can be up- scaled further under a Centre of Excellence being setup by Centre for Development of Advanced 
 Computing (CDAC).
